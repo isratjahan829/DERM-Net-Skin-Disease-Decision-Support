@@ -1,4 +1,4 @@
-# DERM-Net — Clinical Decision Support (Research Demonstrator)
+# DERM-Net — Clinical Decision Support
 
 An AI-assisted skin-condition triage tool. Upload a clinical photograph and
 the app runs a full pipeline: DERM-Net (EfficientNet-B4 + ViT-B/16 fusion) →
